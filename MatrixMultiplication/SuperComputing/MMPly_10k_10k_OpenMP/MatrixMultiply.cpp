@@ -155,5 +155,3 @@ auto main(int argc, char **argv)-> int    {
 
 	return 0;
 }
-
-// rm -rf ./friend.cpp && vim ./friend.cpp && icpc -O3 ./friend.cpp -o ./friend_cln && ./friend_cln 1000 10
