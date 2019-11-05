@@ -1,0 +1,12 @@
+-----------------   Cuda Matrix Multiplication Score Card -----------------
+                        Matrix Size : 2000 x 2000
+                         Iterations : 50
+                          Host Name : hipe2
+                          User Name : v_s191
+    Average Random Number Fill Time :   0.181165 secs.
+     Average Host to Cuda Copy Time :  0.0035149 secs.
+     Average Cuda to Host Copy Time :  0.0162701 secs.
+       Average Matrix Multiply Time :   3.46e-06 secs.
+                 Best Multiply Time :      2e-06 secs.
+      Total Time for all Iterations :    11.6583 secs.
+---------------------------------------------------------------------------

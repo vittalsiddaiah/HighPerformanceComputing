@@ -1,0 +1,5 @@
+#!/bin/bash
+for i in {1..10}
+do
+   ./cuda_mmply 2000 50
+done

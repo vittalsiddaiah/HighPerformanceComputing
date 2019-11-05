@@ -1,0 +1,2 @@
+MatrixSize, Iterations, HostName, UserName, AvgRndTimeSecs, AvgMultiplyTimeSecs, BestMultiplyTimeSecs, TotalTimeSecs
+10000, 1000, root, compute-107.local,   0.147722,     5.2937,     5.0966,    5482.02

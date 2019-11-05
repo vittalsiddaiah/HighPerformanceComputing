@@ -1,0 +1,3 @@
+#nvcc -arch=sm_70 $1 -o $2
+#nvcc -Xptxas -O3,-v $1 -o $2
+nvcc --std=c++11 -arch=sm_70 $1 -o $2

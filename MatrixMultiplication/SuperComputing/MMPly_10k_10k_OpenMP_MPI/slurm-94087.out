@@ -1,0 +1,2 @@
+/home/v_s191/MPI/V_04/MatrixMultiply.cpp(5): (col. 43) remark: main has been targeted for automatic cpu dispatch
+icpc: warning #10237: -lcilkrts linked in dynamically, static library not available

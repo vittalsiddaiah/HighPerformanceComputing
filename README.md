@@ -1,2 +1,2 @@
-# High Performance Computing (HPC)
-Think Parallel, Think Different
+# CPP
+Some C++ Samples for fun
