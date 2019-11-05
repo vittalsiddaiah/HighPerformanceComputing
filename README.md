@@ -1,2 +1,2 @@
-# HighPerformanceComputing
-High Performance Computing
+# High Performance Computing (HPC)
+Think Parallel, Think Different
