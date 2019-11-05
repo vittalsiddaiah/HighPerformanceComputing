@@ -146,8 +146,6 @@ The Following files were generated:
 ```
 
 
-The average log file for the 10000 x 10000 for 1000 iterations (**ICPC_Average_20190212212728.csv.gz**) is available at [OneDrive Click Here](https://onedrive.live.com/?id=EAB03D3DF0121AE7%21106&cid=EAB03D3DF0121AE7)  for accessing the same.
-
 ---
 
 For further details, please contact:
